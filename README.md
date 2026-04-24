@@ -1,3 +1,5 @@
+<img width="685" height="163" alt="image" src="https://github.com/user-attachments/assets/cc1d66d8-afd0-41fd-aa83-d839674bc242" />
+
 # Walmart-Sales-Data-Analysis--Using-SQL
 Analyzed Walmart's sales data to identify high-performing branches and products, the sales patterns of various products, and understand customer behavior. The primary objective of the analysis is to enhance and optimize sales strategies.
 
