@@ -117,6 +117,8 @@ Performed analysis to answer business questions and extract insights.
 - What is the most common product line by gender?
 - What is the average rating of each product line?
 
+<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/0f2ecdf8-e029-4e0b-b33b-323bd8c0da7e" />
+
 ---
 
 ### 🔹 Sales Analysis
