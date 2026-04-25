@@ -1,9 +1,9 @@
 <img width="685" height="163" alt="image" src="https://github.com/user-attachments/assets/cc1d66d8-afd0-41fd-aa83-d839674bc242" />
 
-# Walmart-Sales-Data-Analysis--Using-SQL
+# Walmart-Data-Analysis--Using-SQL
 Analyzed Walmart's sales data to identify high-performing branches and products, the sales patterns of various products, and understand customer behavior. The primary objective of the analysis is to enhance and optimize sales strategies.
 
-# 🛒 Walmart Sales Data Analysis
+# 🛒 Walmart Product, Sales And Customer Data Analysis
 
 ## 📌 Project Purpose
 The primary goal of this project is to analyze Walmart's sales data and uncover insights into the factors influencing sales across different branches. This includes understanding product performance, customer behavior, and sales trends.
