@@ -43,7 +43,7 @@ The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition. It
 | gross_margin_pct  | Gross margin percentage                  | FLOAT(11,9)      |
 | gross_income      | Gross income                             | DECIMAL(12,4)    |
 | rating            | Customer rating                          | FLOAT(2,1)       |
-
+VAT is Tax_5_percent column
 ---
 
 ## 🔍 Analysis
@@ -93,7 +93,7 @@ Performed analysis to answer business questions and extract insights.
 
 ## ❓ Business Questions
 
-### 🔹 Generic
+### 🔹 Exploratory Data Analysis (EDA)
 - How many distinct cities are present in the dataset?
 
 - In which city is each branch situated?
