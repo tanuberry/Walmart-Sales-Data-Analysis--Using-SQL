@@ -1,0 +1,111 @@
+# 🛒 Walmart Sales Analytics Case Study  
+### End-to-End Product, Sales & Customer Analysis using SQL
+
+---
+
+# 🔍 Analysis & Key Insights
+
+---
+
+## 📦 Product Analysis
+
+### 🔑 Insights
+
+- Fashion Accessories → highest sales volume  
+- Food & Beverages → highest revenue and VAT  
+- January → highest revenue and COGS  
+- February → lowest performance  
+- Naypyitaw → top revenue-generating city  
+- Branch A → highest quantity sold  
+- Female customers prefer Fashion Accessories  
+- Male customers prefer Health & Beauty  
+- Food & Beverages → highest ratings  
+- Home & Lifestyle → lowest ratings  
+
+---
+
+### 💡 Business Interpretation
+
+- High-volume products ≠ high-revenue products  
+- Revenue is concentrated in specific categories and cities  
+- Strong seasonal demand patterns exist  
+- Clear customer-product affinity by gender  
+
+---
+
+### 🎯 Actions
+
+- Use Fashion products for customer acquisition  
+- Use Food & Beverages for profit maximization  
+- Increase inventory before January peak  
+- Improve or reposition low-rated categories  
+- Run gender-targeted campaigns  
+
+---
+
+## 💰 Sales Analysis
+
+### 🔑 Insights
+
+- Sales are lowest during weekday mornings  
+- Peak sales occur during:
+  - Tuesday Evening  
+  - Wednesday Afternoon & Evening  
+- Members generate highest revenue  
+- Naypyitaw contributes highest VAT  
+- Members pay the highest VAT  
+
+---
+
+### 💡 Business Interpretation
+
+- Customers are more active after working hours  
+- Revenue is driven by loyal customers (Members)  
+- Geographic concentration exists in high-performing cities  
+
+---
+
+### 🎯 Actions
+
+- Launch morning promotions to boost low demand  
+- Optimize staffing for evening peak hours  
+- Strengthen loyalty programs  
+- Expand successful strategies from Naypyitaw  
+
+---
+
+## 👥 Customer Analysis
+
+### 🔑 Insights
+
+- Members are the majority and highest buyers  
+- Females are the dominant customer segment  
+- Branch-level differences:
+  - Branch C → highest females  
+  - Branch A → highest males  
+- Customers give most ratings in Afternoon  
+- Branch-specific engagement patterns exist  
+- Monday has the highest average ratings  
+
+---
+
+### 💡 Business Interpretation
+
+- Business depends heavily on loyal customers  
+- Customer behavior varies by branch and gender  
+- Engagement patterns differ across time and location  
+
+---
+
+### 🎯 Actions
+
+- Convert Normal customers to Members  
+- Personalize marketing by gender and branch  
+- Collect feedback during peak engagement time  
+- Standardize high-performing service practices  
+
+---
+
+
+
+---
