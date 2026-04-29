@@ -45,37 +45,12 @@ The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition. It
 | rating            | Customer rating                          | FLOAT(2,1)       |
 VAT is Tax_5_percent column
 ---
-
-## 🔍 Analysis
-
-### 📦 Product Analysis
-- Identify top-performing product lines  
-- Analyze sales distribution  
-- Detect underperforming products  
-
----
-
-### 💰 Sales Analysis
-- Evaluate sales trends over time  
-- Measure effectiveness of strategies  
-- Identify revenue patterns  
-
----
-
-### 👥 Customer Analysis
-- Segment customers  
-- Analyze purchasing behavior  
-- Evaluate profitability  
-
----
-
 ## ⚙️ Approach
 
 ### 🧹 Data Wrangling
 - Checked for missing values  
 - Created database and tables  
 - Ensured data consistency  
-
 ---
 
 ### 🛠️ Feature Engineering
@@ -83,16 +58,7 @@ Created new columns:
 - `time_of_day` → Morning, Afternoon, Evening  
 - `day_name` → Day of week  
 - `month_name` → Month  
-
 ---
-
-### 📈 Exploratory Data Analysis (EDA)
-Performed analysis to answer business questions and extract insights.
-
----
-
-## ❓ Business Questions
-
 ### 🔹 Exploratory Data Analysis (EDA)
 - How many distinct cities are present in the dataset?
 
@@ -103,7 +69,7 @@ Performed analysis to answer business questions and extract insights.
 
 ---
 
-### 🔹 Product Analysis
+### PRODUCT ANALYSIS
 - How many distinct product lines are there in the dataset?
 - What is the most common payment method?
 - What is the most selling product line?
@@ -119,35 +85,6 @@ Performed analysis to answer business questions and extract insights.
 
 <img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/0f2ecdf8-e029-4e0b-b33b-323bd8c0da7e" />
 
----
-
-### 🔹 Sales Analysis
-- Number of sales made in each time of the day per weekday
-- Identify the customer type that generates the highest revenue.
-- Which city has the largest tax percent/ VAT (Value Added Tax)?
-- Which customer type pays the most VAT? 
-
----
-
-### 🔹 Customer Analysis
-- How many unique customer types does the data have?
-- How many unique payment methods does the data have?
-- Which is the most common customer type?
-- Which customer type buys the most?
-- What is the gender of most of the customers?
-- What is the gender distribution per branch?
-- Which time of the day do customers give most ratings?
-- Which time of the day do customers give most ratings per branch?
-- Which day of the week has the best avg ratings?
-- Which day of the week has the best average ratings per branch?
----
-
-## 🔍 Analysis & Key Insights
-
----
-
-## 📦 PRODUCT ANALYSIS
-
 ### 🔑 Insights
 
 - Fashion Accessories → highest sales volume  
@@ -162,16 +99,6 @@ Performed analysis to answer business questions and extract insights.
 - Home & Lifestyle → lowest ratings  
 
 ---
-
-### 💡 Business Interpretation
-
-- High-volume products ≠ high-revenue products  
-- Revenue is concentrated in specific categories and cities  
-- Strong seasonal demand patterns exist  
-- Clear customer-product affinity by gender  
-
----
-
 ### 🎯 Actions
 
 - Use Fashion products for customer acquisition  
@@ -181,9 +108,13 @@ Performed analysis to answer business questions and extract insights.
 - Run gender-targeted campaigns  
 
 ---
+### 💰 SALES ANALYSIS
+- Number of sales made in each time of the day per weekday
+- Identify the customer type that generates the highest revenue.
+- Which city has the largest tax percent/ VAT (Value Added Tax)?
+- Which customer type pays the most VAT? 
 
-## 💰 SALES ANALYSIS
-
+---
 ### 🔑 Insights
 
 - Sales are lowest during weekday mornings  
@@ -195,25 +126,27 @@ Performed analysis to answer business questions and extract insights.
 - Members pay the highest VAT  
 
 ---
-
-### 💡 Business Interpretation
-
-- Customers are more active after working hours  
-- Revenue is driven by loyal customers (Members)  
-- Geographic concentration exists in high-performing cities  
-
----
-
 ### 🎯 Actions
 
 - Launch morning promotions to boost low demand  
 - Optimize staffing for evening peak hours  
 - Strengthen loyalty programs  
 - Expand successful strategies from Naypyitaw  
-
 ---
 
-## 👥 CUSTOMER ANALYSIS
+### 👥 CUSTOMER ANALYSIS
+- How many unique customer types does the data have?
+- How many unique payment methods does the data have?
+- Which is the most common customer type?
+- Which customer type buys the most?
+- What is the gender of most of the customers?
+- What is the gender distribution per branch?
+- Which time of the day do customers give most ratings?
+- Which time of the day do customers give most ratings per branch?
+- Which day of the week has the best avg ratings?
+- Which day of the week has the best average ratings per branch?
+
+
 
 ### 🔑 Insights
 
@@ -227,22 +160,11 @@ Performed analysis to answer business questions and extract insights.
 - Monday has the highest average ratings  
 
 ---
-
-### 💡 Business Interpretation
-
-- Business depends heavily on loyal customers  
-- Customer behavior varies by branch and gender  
-- Engagement patterns differ across time and location  
-
----
-
 ### 🎯 Actions
 
 - Convert Normal customers to Members  
 - Personalize marketing by gender and branch  
 - Collect feedback during peak engagement time  
-- Standardize high-performing service practices  
-
+- Standardize high-performing service practices
+  
 ---
----
-
