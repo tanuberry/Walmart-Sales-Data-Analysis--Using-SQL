@@ -64,12 +64,11 @@ Created new columns:
 
 - In which city is each branch situated?
 
-- <img width="1144" height="642" alt="image" src="https://github.com/user-attachments/assets/f326e01b-5d5d-4b11-b75e-61178dbc970e" />
-
-
+ <img width="1144" height="642" alt="image" src="https://github.com/user-attachments/assets/f326e01b-5d5d-4b11-b75e-61178dbc970e" />
+ 
 ---
 
-### PRODUCT ANALYSIS
+### 📦PRODUCT ANALYSIS
 - How many distinct product lines are there in the dataset?
 - What is the most common payment method?
 - What is the most selling product line?
@@ -98,23 +97,23 @@ Created new columns:
 - Food & Beverages → highest ratings  
 - Home & Lifestyle → lowest ratings  
 
----
 ### 🎯 Actions
 
 - Use Fashion products for customer acquisition  
 - Use Food & Beverages for profit maximization  
 - Increase inventory before January peak  
 - Improve or reposition low-rated categories  
-- Run gender-targeted campaigns  
-
+- Run gender-targeted campaigns
+  
 ---
 ### 💰 SALES ANALYSIS
 - Number of sales made in each time of the day per weekday
 - Identify the customer type that generates the highest revenue.
 - Which city has the largest tax percent/ VAT (Value Added Tax)?
-- Which customer type pays the most VAT? 
+- Which customer type pays the most VAT?
 
----
+  <img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/6f32792a-bd99-41f9-99b8-920f9586bc1d" />
+
 ### 🔑 Insights
 
 - Sales are lowest during weekday mornings  
@@ -125,7 +124,6 @@ Created new columns:
 - Naypyitaw contributes highest VAT  
 - Members pay the highest VAT  
 
----
 ### 🎯 Actions
 
 - Launch morning promotions to boost low demand  
@@ -146,6 +144,7 @@ Created new columns:
 - Which day of the week has the best avg ratings?
 - Which day of the week has the best average ratings per branch?
 
+<img width="1322" height="744" alt="image" src="https://github.com/user-attachments/assets/70a42d28-40df-4ae9-9f1e-476ec25b8cf9" />
 
 
 ### 🔑 Insights
@@ -159,7 +158,6 @@ Created new columns:
 - Branch-specific engagement patterns exist  
 - Monday has the highest average ratings  
 
----
 ### 🎯 Actions
 
 - Convert Normal customers to Members  
