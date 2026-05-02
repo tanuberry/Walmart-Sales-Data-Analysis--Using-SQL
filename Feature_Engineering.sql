@@ -19,3 +19,26 @@ SET time_of_day = (
 		ELSE "Evening" 
 	END
 );
+
+
+-- 2.Day_name
+
+SELECT Date,
+DAYNAME(Date) AS day_name
+FROM walmart_sales_data.s;
+
+ALTER TABLE walmart_sales_data.s ADD COLUMN day_name VARCHAR(10);
+
+UPDATE walmart_sales_data.s
+SET day_name = DAYNAME(date);
+
+-- 3.Month_name
+
+SELECT Date,
+MONTHNAME(Date) AS month_name
+FROM walmart_sales_data.s;
+
+ALTER TABLE walmart_sales_data.s ADD COLUMN month_name VARCHAR(10);
+
+UPDATE walmart_sales_data.s
+SET month_name = MONTHNAME(date);
