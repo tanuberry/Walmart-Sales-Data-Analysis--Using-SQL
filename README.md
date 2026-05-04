@@ -118,8 +118,8 @@ Created new columns:
 
 - Sales are lowest during weekday mornings  
 - Peak sales occur during:
-  - Tuesday Evening  
-  - Wednesday Afternoon & Evening  
+  - Saturday Evening  
+  - Tuesday Evening   
 - Members generate highest revenue  
 - Naypyitaw contributes highest VAT  
 - Members pay the highest VAT  
